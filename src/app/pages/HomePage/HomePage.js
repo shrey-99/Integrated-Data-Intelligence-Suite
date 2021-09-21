@@ -54,7 +54,7 @@ class HomePage extends Component {
                                     All in one place.
                                 </div>
                                 {/*<div id="button-container">*/}
-                                    <button id="download-button" onClick={()=> window.open("https://drive.google.com/drive/folders/1ZI8oC5T__WFowy7d05TzX3VND_AWT_fh?usp=sharing", "_blank")}>
+                                    <button id="download-button" onClick={()=> window.open("https://drive.google.com/drive/folders/1ZBkLoIxYXDtDef-m-Q5Z1h0IqXkKKvOQ?usp=sharing", "_blank")}>
                                         <SiWindows id="windows-logo"/>
                                         Download for Windows
                                     </button>
